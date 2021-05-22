@@ -1,3 +1,5 @@
+package br.com.maratonajava.introducao.controlefluxo;
+
 public class ControleDeFluxoWhile {
     public static void main(String[] args) {
         int contador = 0;

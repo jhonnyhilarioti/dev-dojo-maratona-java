@@ -1,3 +1,5 @@
+package br.com.maratonajava.introducao.controlefluxo;
+
 public class ExercicioControleDeFluxoWhile {
     public static void main(String[] args) {
         //Imprima todos os números pares de 0 até 1000.000

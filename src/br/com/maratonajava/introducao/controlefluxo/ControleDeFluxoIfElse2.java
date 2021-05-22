@@ -1,3 +1,5 @@
+package br.com.maratonajava.introducao.controlefluxo;
+
 public class ControleDeFluxoIfElse2 {
     public static void main(String[] args) {
         int idade = 15;

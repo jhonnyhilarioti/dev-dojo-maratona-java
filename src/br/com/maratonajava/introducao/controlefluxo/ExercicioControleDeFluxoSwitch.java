@@ -1,3 +1,5 @@
+package br.com.maratonajava.introducao.controlefluxo;
+
 public class ExercicioControleDeFluxoSwitch {
     public static void main(String[] args) {
         byte dia = 1;

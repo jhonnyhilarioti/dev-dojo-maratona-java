@@ -1,3 +1,5 @@
+package br.com.maratonajava.introducao;
+
 public class RelatorioDePendencia {
     public static void main(String[] args) {
         String nome = "Jhonny";

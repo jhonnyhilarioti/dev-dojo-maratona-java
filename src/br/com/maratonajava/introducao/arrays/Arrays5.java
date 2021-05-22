@@ -1,3 +1,5 @@
+package br.com.maratonajava.introducao.arrays;
+
 public class Arrays5 {
     public static void main(String[] args) {
         int[][] dias = {{1,2},{3,4,5},{6,7,8,9,10}};

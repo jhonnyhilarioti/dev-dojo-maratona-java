@@ -1,3 +1,5 @@
+package br.com.maratonajava.introducao.arrays;
+
 public class Arrays4 {
     public static void main(String[] args) {
         int[][] dias = new int[2][2];

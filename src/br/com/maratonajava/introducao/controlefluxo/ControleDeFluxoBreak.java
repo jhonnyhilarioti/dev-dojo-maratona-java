@@ -1,15 +1,17 @@
-public class ControleDeFluxoContinue {
+package br.com.maratonajava.introducao.controlefluxo;
+
+public class ControleDeFluxoBreak {
     public static void main(String[] args) {
         //Dado um valor de uma carro, descubra em quantas vezes ele pode ser parcelado
         //As parcelas não podem ser menores do que 1000
         double valorTotal = 30000;
-        for (int parcela = (int) valorTotal; parcela >= 1; parcela--) {
+        for (int parcela = 1; parcela <= valorTotal; parcela++) {
             double valorParcela = valorTotal / parcela;
-            if (valorParcela <= 1000) {
-               continue;
+            if (valorParcela < 1000) {
+                break;
             }
             System.out.println("Parcela " + parcela + " R$ " + valorParcela);
-            System.out.println("código consumindo memória");
         }
     }
 }
+

@@ -1,4 +1,4 @@
-public class Array3 {
+public class Arrays3 {
     public static void main(String[] args) {
         String[] nomes = new String[]{"João","Maria","Goku"};
         for (String nome : nomes) {

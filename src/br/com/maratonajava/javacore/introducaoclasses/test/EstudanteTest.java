@@ -1,4 +1,4 @@
-package br.com.maratonajava.javacore.introducaoclassestest;
+package br.com.maratonajava.javacore.introducaoclasses.test;
 
 import br.com.maratonajava.javacore.introducaoclasses.Estudante;
 

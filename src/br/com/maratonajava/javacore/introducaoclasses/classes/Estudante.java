@@ -1,4 +1,4 @@
-package br.com.maratonajava.javacore.introducaoclasses;
+package br.com.maratonajava.javacore.introducaoclasses.classes;
 
 public class Estudante {
     public String nome;

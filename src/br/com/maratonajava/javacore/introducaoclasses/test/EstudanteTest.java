@@ -1,6 +1,6 @@
 package br.com.maratonajava.javacore.introducaoclasses.test;
 
-import br.com.maratonajava.javacore.introducaoclasses.Estudante;
+import br.com.maratonajava.javacore.introducaoclasses.classes.Estudante;
 
 public class EstudanteTest {
     public static void main(String[] args) {

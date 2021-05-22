@@ -1,6 +1,6 @@
 package br.com.maratonajava.introducao.arrays;
 
-public class Arrays4 {
+public class Arrays04 {
     public static void main(String[] args) {
         int[][] dias = new int[2][2];
         dias[0][0] = 1;

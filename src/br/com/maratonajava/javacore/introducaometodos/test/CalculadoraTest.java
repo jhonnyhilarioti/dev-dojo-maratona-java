@@ -7,6 +7,7 @@ public class CalculadoraTest {
         Calculadora calc = new Calculadora();
         calc.somaDoisNumeros();
         calc.subtraiDoisNumeros();
+        calc.multiplicaDoisNumeros(5,5);
         System.out.println("Continuar a execuão");
     }
 }

@@ -16,8 +16,8 @@ public class ProfessorTest {
         prof2.cpf = "222-222-2";
         prof2.matricula = "918273";
 
-        prof.imprime(prof);
-        prof.imprime(prof2);
+        prof.imprime();
+        prof2.imprime();
 
 
     }
